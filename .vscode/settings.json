@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.js": "javascriptreact",
-        "stdio.h": "c",
-        "arrayfun.h": "c",
-        "cs136-trace.h": "c"
-    }
-}
